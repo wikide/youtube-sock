@@ -4,7 +4,8 @@
 
 # H3 разворачиваем приложение
 
-`$ brew install node
+
+$ brew install node
 
 $ brew install npm
 
@@ -26,7 +27,9 @@ $ cp .env.dist .env
 
 $ electron-packager . "YouTube Sock" --platform=darwin --arch=arm64 --icon=icon.icns
 
-$ electron-installer-dmg YouTube\ Sock-darwin-arm64/YouTube\ Sock.app "Youtube-Sock"`
+$ electron-installer-dmg YouTube\ Sock-darwin-arm64/YouTube\ Sock.app "Youtube-Sock"
+
+
 
 Web сайт приложения - https://killercoder.ru/sozdanie-prilozheniya-pri-pomoshhi-node-js-dlya-mac-os/
 Телеграмм разработчика - https://t.me/web3_devi
