@@ -1,0 +1,26 @@
+{
+  "name": "youtube-sock",
+  "version": "1.0.0",
+  "description": "Приложение позволяет запускать Youtube как дескотп приложение на mac os arm64 через защищеный sock5 канал",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikide/youtube-sock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wikide/youtube-sock/issues"
+  },
+  "homepage": "https://github.com/wikide/youtube-sock#readme",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
